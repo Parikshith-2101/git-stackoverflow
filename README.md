@@ -1,1 +1,1 @@
-# git-techversant
+# git-tech
